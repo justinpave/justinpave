@@ -12,7 +12,7 @@
 
 ### 👋 Hi, I’m Justin
 
-I’m an **Information Systems Security Officer (ISSO)** and **U.S. Army veteran** with 20+ years in **cybersecurity, IT systems, and network engineering**. I support **DoD and federal agencies**, keeping mission-critical systems secure, compliant, and reliable — and I love tinkering in a homelab to stay sharp and curious.
+I’m an **Information Systems Security Officer (ISSO)** and **U.S. Army veteran** with 20+ years in **cybersecurity, IT systems and network engineering**. I support **DoD and federal agencies**, keeping mission-critical systems secure, compliant, and reliable — and I love tinkering in a homelab to stay sharp and curious.
 
 ---
 
