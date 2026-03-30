@@ -24,7 +24,7 @@ I’m an **Information Systems Security Officer (ISSO)** and **U.S. Army veteran
 - 🔐 **Cyber & Risk:** RMF, NIST, CMMC, FedRAMP • eMASS/Xacta • POA&Ms • ACAS
 - 🌐 **Networks & Infrastructure:** pfSense, Cisco • Red Hat & Windows • VMware ESXi/ vSphere • TrueNAS
 - 📊 **SecOps & SIEM:** Splunk, LogRhythm, Security Onion • Log analysis & continuous monitoring
-- ☁️ **Virtualization & Cloud:** VMware, Proxmox, Hyper-V
+- ☁️ **Virtualization & Cloud:** Nutanix, VMware, Proxmox, Hyper-V
 - ⚙️ **Automation:** PowerShell, Bash, Python
 
 ### 🧪 In My Homelab
